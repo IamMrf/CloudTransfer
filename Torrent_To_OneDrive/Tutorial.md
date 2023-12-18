@@ -1,5 +1,5 @@
 ## 1. Open Colab Project 
-<a href="https://colab.research.google.com/github/IamMrf/Torrent_To_OneDrive/blob/main/Torrent_To_Onedrive_By_(Mosabbir_Maruf).ipynb
+<a href="https://colab.research.google.com/github/IamMrf/CloudTransfer/blob/main/Torrent_To_OneDrive/Torrent_To_Onedrive_By_(Mosabbir_Maruf).ipynb
 "><b>CLICK ON THIS</b></a>
 
 
@@ -84,7 +84,7 @@ Click on the Run Command
 ![Screenshot 2021-04-02 093347](https://user-images.githubusercontent.com/67457538/113387659-60a3c100-93aa-11eb-8ca2-becb1de21245.png)
 
 
-<a href="https://github.com/IamMrf/Torrent_To_OneDrive/blob/main/rclone_authentication.md"><b>How to get onedrive authenticate step by step (Click On This)</b></a>
+<a href="https://github.com/IamMrf/CloudTransfer/blob/main/Torrent_To_OneDrive/rclone_authentication.md"><b>How to get onedrive authenticate step by step (Click On This)</b></a>
 
 
 
