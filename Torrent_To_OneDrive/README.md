@@ -1,4 +1,4 @@
-# Torrent-To-OneDrive <br> <br>
+# Torrent To OneDrive <br> <br>
 COLAB-> https://colab.research.google.com/github/IamMrf/Torrent_To_OneDrive/blob/main/Torrent_To_Onedrive_By_(Mosabbir_Maruf).ipynb  <br>
  <br>
 TUTORIAL-> https://github.com/IamMrf/Torrent_To_OneDrive/blob/main/Tutorial.md <br>
