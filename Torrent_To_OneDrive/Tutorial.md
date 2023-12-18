@@ -2,17 +2,15 @@
 <a href="https://colab.research.google.com/github/IamMrf/CloudTransfer/blob/main/Torrent_To_OneDrive/Torrent_To_Onedrive_By_(Mosabbir_Maruf).ipynb
 "><b>CLICK ON THIS</b></a>
 
-
-![Screenshot 2023-12-18 192441](https://github.com/IamMrf/Torrent-To-OneDrive/assets/96982516/5f627853-e4b1-4a5b-bf19-103fb5957956)
+![222222](https://github.com/IamMrf/CloudTransfer/assets/96982516/2b0f8c4a-a879-482f-9ac7-f4c42ed5311d)
 
 ## 2.Run Command
 
-Click on the Run Command
-![Screenshot 2023-12-18 193037](https://github.com/IamMrf/Torrent-To-OneDrive/assets/96982516/6f0f15fa-3a9f-40b8-903f-963696751bf5)
+![Screenshot 2023-12-19 020738](https://github.com/IamMrf/CloudTransfer/assets/96982516/5a07aacc-3b34-4901-837c-8f855e0f5143)
 
 ## 3.Run anyway
 
-![Screenshot 2023-12-18 193348](https://github.com/IamMrf/Torrent-To-OneDrive/assets/96982516/74307912-9d46-4dbb-84c0-5a6a4567055b)
+![r](https://github.com/IamMrf/CloudTransfer/assets/96982516/9af87667-f1ae-4504-af16-99cce2557e8a)
 
 ## 4.Connecting
 
@@ -25,8 +23,7 @@ Click on the Run Command
 
 ## 6.Now Running Shell
 
-![Screenshot 2023-12-18 193518](https://github.com/IamMrf/Torrent-To-OneDrive/assets/96982516/372f8ebd-8d84-4aeb-a959-120a934f02da)
-
+![Screenshot 2023-12-18 193518](https://github.com/IamMrf/CloudTransfer/assets/96982516/cddd0a22-4932-41ae-930f-c8b76bc87c16)
 
 ## 7.Rclone config
 
@@ -131,7 +128,7 @@ Click on the Run Command
 
 ## 30.Show your onedrive file if mount sucessfully
 
-![Screenshot 2023-12-18 194233](https://github.com/IamMrf/Torrent-To-OneDrive/assets/96982516/136c682d-3eca-4579-92d2-c11ad2065abd)
+![30](https://github.com/IamMrf/CloudTransfer/assets/96982516/c436d8f8-aff0-45be-89e5-e1e9e6624977)
 
 
 ## 31.Now It's time to download Torrent
@@ -161,8 +158,7 @@ paste magnet/torrent link and hit enter
 
 ## 35.Copying data to your Onedrive
 
-![Screenshot 2023-12-18 193257](https://github.com/IamMrf/Torrent-To-OneDrive/assets/96982516/ddf17897-ba27-4f66-91ca-c5b39188f2d7)
-
+![c](https://github.com/IamMrf/CloudTransfer/assets/96982516/36ad1579-529e-47cd-a907-43fcfdf126ea)
 
 
 ```diff 
