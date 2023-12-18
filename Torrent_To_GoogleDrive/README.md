@@ -4,7 +4,7 @@
 
 https://colab.research.google.com/github/IamMrf/CloudTransfer/blob/main/Torrent_To_GoogleDrive/Torrent_To_GoogleDrive_By_(Mosabbir_Maruf).ipynb
 
-![Screenshot 2023-12-19 004845](https://github.com/IamMrf/Torrent_To_GoogleDrive/assets/96982516/fedd6783-a6fa-49c4-93b5-199441469b06)
+![Screenshot 2023-12-19 015137](https://github.com/IamMrf/CloudTransfer/assets/96982516/5a98be8a-3b88-4572-b053-7112b8a745ae)
 
 #### Step 2: Now run each block of notebook one by one and end do as instructed in notebook. 
 
